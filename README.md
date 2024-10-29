@@ -1,16 +1,3 @@
-# lab-flask
+Algerian Forest Fire Weather Index (FWI) Prediction
+Developed a predictive model to forecast the Forest Weather Index (FWI) for forest fires in Algeria using historical weather data. Utilized machine learning algorithms such as Random Forest and Linear Regression for predictive modeling. Performed data preprocessing, feature selection, and model evaluation to optimize prediction accuracy.
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
-
-
-To run flask application 
-
-```
-python app.py
-```
-
-
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
